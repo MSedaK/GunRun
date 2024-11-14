@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/firs.unity
     guid: 4009361a49b93c74d9dbc9d896d2db6a
+  - enabled: 1
+    path: Assets/Samples/Meta XR Core SDK/69.0.1/Sample Scenes/HandTest.unity
+    guid: b9a31e08066d6e343a208d34ec298f09
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 54eda2eaf58d1784da40cbba2472eb9a, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 44ca5ea9f9ba34947bc32eb74a458f02, type: 2}
